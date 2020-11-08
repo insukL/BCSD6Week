@@ -13,6 +13,8 @@
     <mvc:annotation-driven></mvc:annotation-driven>
     <context:component-scan base-package="problem1.controller"></context:component-scan>
     <context:component-scan base-package="problem1.service"></context:component-scan>
+    <context:component-scan base-package="problem2.controller"></context:component-scan>
+    <context:component-scan base-package="problem2.service"></context:component-scan>
     <context:component-scan base-package="aspect"></context:component-scan>
 
     <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
