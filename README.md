@@ -1,6 +1,6 @@
 # BCSD6Week
 BackEnd Beginner 이인석 6주차 AOP 실습 결과입니다.  
-각 문제를 problem1, problem2로 mapping했습니다.  
+각 문제를 problem1, problem2로 RequestMapping했습니다.  
 참고 목록
 - [spring에서 component-scan을 사용하자.](https://yookeun.github.io/java/2014/07/04/spring-component-scan/)
 - [ArrayList 클래스의 생성자, ArrayList 클래스의 주요메소드](https://codedragon.tistory.com/6211)
