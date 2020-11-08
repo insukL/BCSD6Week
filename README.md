@@ -9,4 +9,4 @@ BackEnd Beginner 이인석 6주차 AOP 실습 결과입니다.
 - [스프링 AOP JoinPoint 객체](https://dlgkstjq623.tistory.com/271)
 - [Spring 프록시 패턴 & 스프링 AOP](https://velog.io/@max9106/Spring-%ED%94%84%EB%A1%9D%EC%8B%9C-AOP-xwk5zy57ee)
 - [스프링 스톰워치(Spring StopWatch)로 실행속도 측정하기](https://sungminhong.github.io/spring/stop_watch/)
-- [스프링 AOP(Aspect Oriented Programming) : @Aspect, @Pointcut, @Before, @After, @AfterReturning, @AfterThrowing, @Around](1-5) 스프링 AOP(Aspect Oriented Programming) : @Aspect, @Pointcut, @Before, @After, @AfterReturning, @AfterThrowing, @Around)
+- [스프링 AOP(Aspect Oriented Programming) : @Aspect, @Pointcut, @Before, @After, @AfterReturning, @AfterThrowing, @Around](https://nankisu.tistory.com/6)
