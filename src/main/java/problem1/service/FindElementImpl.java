@@ -10,11 +10,9 @@ public class FindElementImpl implements FindElement {
     ArrayList<Integer> arrList = new ArrayList<Integer>();
 
     public FindElementImpl(){
-        arrList.add(1);
-        arrList.add(2);
-        arrList.add(3);
-        arrList.add(4);
-        arrList.add(5);
+        for(int i = 0; i < 1_000_000; i++){
+            arrList.add(i);
+        }
     }
     @Override
     public void linearSearch(int key){

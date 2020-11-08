@@ -17,8 +17,8 @@ public class Problem1Controller {
 
     @RequestMapping(value = {"/problem1"}, method = RequestMethod.GET)
     public String find(){
-        findElement.linearSearch(5);
-        findElement.binarySearch(5);
+        findElement.linearSearch(999_999);
+        findElement.binarySearch(999_999);
         return "problem1";
     }
 }
